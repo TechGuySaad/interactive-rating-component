@@ -3,11 +3,11 @@ import { setClickState } from "../store/slices/clickColorSlice";
 import { Link } from "react-router-dom";
 
 function Rating() {
-  let lock1,
-    lock2,
-    lock3,
-    lock4,
-    lock5 = 0;
+//   let lock1,
+    // lock2,
+    // lock3,
+    // lock4,
+    // lock5 = 0;
 
 //   const clickState = useSelector((state) => {
 //     return state.clickState;
