@@ -1,4 +1,4 @@
-import { useDispatch, useSelector } from "react-redux";
+import { useDispatch } from "react-redux";
 import { setClickState } from "../store/slices/clickColorSlice";
 import { Link } from "react-router-dom";
 
